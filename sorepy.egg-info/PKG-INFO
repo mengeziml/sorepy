@@ -1,0 +1,22 @@
+Metadata-Version: 1.0
+Name: sorepy
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/mengeziml/sorepy
+Author: Mengezi Dlomo
+Author-email: mengeziml@gmail.com
+License: MIT
+Description: # sorepy
+        This package assists the user in recursively sorting arrays and getting fibonacci terms,
+        factorials and also reversing strings.
+        
+        ## building this package locally
+        `python setup.py sdist`
+        
+        ## installing this package from GitHub
+        `pip install git+https://github.com/mengeziml/sorepy.git`
+        
+        ## updating this package from GitHub
+        `pip install --upgrade git+https://github.com/mengeziml/sorepy.git`
+        
+Platform: UNKNOWN

@@ -1,0 +1,10 @@
+README.md
+setup.py
+sorepy/__init__.py
+sorepy/recursion.py
+sorepy/sorting.py
+sorepy.egg-info/PKG-INFO
+sorepy.egg-info/SOURCES.txt
+sorepy.egg-info/dependency_links.txt
+sorepy.egg-info/requires.txt
+sorepy.egg-info/top_level.txt

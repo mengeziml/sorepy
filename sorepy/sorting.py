@@ -88,10 +88,10 @@ def quick_sort(items):
             >>> quick_sort([6,2,5,9,1,3])
             [1, 2, 3, 5, 6, 9]
     """
-    p=items[0]
+    p=items[-1]
     l=[]
     r=[]
-    for i in range(1,len(items)):
+    for i in range(len(items)):
         if items[i]< p:
             l.append(items[i])
             if len(l)>1 and len(l)>=len(items)//2:

@@ -31,13 +31,10 @@ def fibonacci(n):
         Examples:
             >>> fibonacci(5)
             3
-    """
-    if n<=0:
-        print("Invalid term!")
-    elif n==1:
-        return 0
-    elif n==2:
-        return 1
+      """
+
+    if n<=1:
+        return n
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
